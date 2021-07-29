@@ -8,7 +8,7 @@ class DataItem {
 
     val abcd:Int =1010
 
-    val efg:String = "abcdefggjkhgkjh";
+    val efg:String = "abcdefggjkhgkjh  ghh";
 
     @SerializedName("userId")
     val userId :Int =0
