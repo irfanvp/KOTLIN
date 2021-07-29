@@ -6,7 +6,7 @@ class DataItem {
 
     val abc:Int =10
 
-    val abcd:Int =10
+    val abcd:Int =1010
 
     @SerializedName("userId")
     val userId :Int =0
