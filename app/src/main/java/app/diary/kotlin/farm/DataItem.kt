@@ -8,7 +8,7 @@ class DataItem {
 
     val abcd:Int =1010
 
-    val efg:String = "abcdefggjkhgkjh  ghh";
+    val efg:String = "abcdefggjkhgkjh  ghh abc";
 
     val efgh:String = "abcdefggjkhgkjh  ghh";
 
