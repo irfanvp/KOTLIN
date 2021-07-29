@@ -6,7 +6,7 @@ class DataItem {
 
     val abc:Int =10
 
-    val abcd:Int =1010
+   val fgyu :Int =0;
 
     val efg:String = "abcdefggjkhgkjh  ghh abc";
 
