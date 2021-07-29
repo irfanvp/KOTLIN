@@ -4,6 +4,8 @@ import com.google.gson.annotations.SerializedName
 
 class DataItem {
 
+    val abc:Int =10
+
     @SerializedName("userId")
     val userId :Int =0
 
