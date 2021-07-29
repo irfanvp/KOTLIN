@@ -12,6 +12,9 @@ class DataItem {
 
     val efgh:String = "abcdefggjkhgkjh  ghh";
 
+
+    val efghi:String = "abcdefggjkhgkjh  ghh";
+
     @SerializedName("userId")
     val userId :Int =0
 
