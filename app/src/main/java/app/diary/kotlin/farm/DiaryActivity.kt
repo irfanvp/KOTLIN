@@ -26,7 +26,7 @@ class DiaryActivity : AppCompatActivity() {
 
     private fun addData() {
 
-
+         val abcd:Int = 10
 
          val db = AppDatabase.getInstance(application)
 
