@@ -18,6 +18,9 @@ class DataItem {
     @SerializedName("userId")
     val userId :Int =0
 
+    @SerializedName("passId")
+    val passId :Int =0
+
     @SerializedName("id")
     val id :Int =0
 
