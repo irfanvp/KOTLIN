@@ -6,14 +6,6 @@ class DataItem {
 
     val abc:Int =10
 
-   val fgyu :Int =0;
-
-    val efg:String = "abcdefggjkhgkjh  ghh abc";
-
-    val efgh:String = "abcdefggjkhgkjh  ghh";
-
-
-    val efghi:String = "abcdefggjkhgkjh  ghh";
 
     @SerializedName("userId")
     val userId :Int =0
