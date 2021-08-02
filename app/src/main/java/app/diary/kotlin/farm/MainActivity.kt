@@ -19,6 +19,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 class MainActivity : AppCompatActivity() {
     var username: String = ""
     var password: String =""
+    var password1: String =""
     companion object {
         var BaseUrl :String ="https://jsonplaceholder.typicode.com/"
     }
